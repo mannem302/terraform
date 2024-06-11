@@ -18,7 +18,7 @@ resource "aws_instance" "interns1" {
  
  vpc_security_group_ids =["sg-0f4aa0545ddc5ba5c"]
  tags = { 
- Name = "Instance-2" 
+ Name = "Instance-3" 
  } 
 }
 
